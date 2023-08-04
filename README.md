@@ -1,6 +1,6 @@
 # Aeds-1
 
- Atividades da matéria de Algoritmos e Estruturas de Dados I
+ Atividades da matéria de Algoritmos e Estruturas de Dados 1
 
  ##### LINGUAGEM UTILIZADA
  <div style="display: inline_block"><br/>
